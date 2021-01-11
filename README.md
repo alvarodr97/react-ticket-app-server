@@ -1,3 +1,3 @@
 # Ticket Server
 
-Backend de [BandNames](https://github.com/alvarodr97/react-ticket-app)
+Backend de [Ticket-App](https://github.com/alvarodr97/react-ticket-app)
